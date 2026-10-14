@@ -30,8 +30,9 @@
     "type": "module",
 
     "ff-medium": {
-        "category": "",
-        "topics": [],
-        "shot": { "delay": 0, "click": false }
+        "category": "generative",
+        "topics": ["spectral.js"],
+        "shot": { "delay": 1, "click": false }
     }
+
 }
