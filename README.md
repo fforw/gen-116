@@ -1,3 +1,3 @@
-#Simple Starter
+# gen-116
 
-Simple TypeScript/vite build starter for simple, client-only demos.
+Rectangle intersection based on spectral.js extended base palettes.

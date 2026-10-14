@@ -12,6 +12,7 @@
         "moduleDetection": "force",
         "verbatimModuleSyntax": true,
         "skipLibCheck": true,
+        "allowJs": true,
         "noEmit": true
     },
     "include": ["src", "test", "vite.config.ts"]
